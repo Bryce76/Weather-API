@@ -85,4 +85,3 @@ The API handles various error scenarios, including:
 - Cache misses.
 
 In case of an error, the API will return a JSON response with an appropriate error message.
-```
